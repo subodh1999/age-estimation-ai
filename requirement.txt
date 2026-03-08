@@ -1,8 +1,0 @@
-streamlit
-torch
-torchvision
-opencv-python
-Pillow
-numpy
-streamlit-webrtc
-av
