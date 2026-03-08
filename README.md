@@ -14,7 +14,7 @@ Make sure all these files are in the same folder:
 | File | Description |
 |------|-------------|
 | `app.py` | Main application code |
-| `requirement.txt` | Python dependencies |
+| `requirements.txt` | Python dependencies |
 | `best_mobilenetv2.pth` | Trained model weights *(app will fail without this)* |
 
 ## How to Run
@@ -30,7 +30,7 @@ cd "path/to/your/project/folder"
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Launch the App
